@@ -1,0 +1,12 @@
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\bin\Release\net6.0\Dms.Domain.deps.json
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\bin\Release\net6.0\Dms.Domain.dll
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\bin\Release\net6.0\Dms.Domain.pdb
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\Dms.Domain.csproj.AssemblyReference.cache
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\Dms.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\Dms.Domain.AssemblyInfoInputs.cache
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\Dms.Domain.AssemblyInfo.cs
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\Dms.Domain.csproj.CoreCompileInputs.cache
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\Dms.Domain.dll
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\refint\Dms.Domain.dll
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\Dms.Domain.pdb
+D:\OFFICE PROJECT\DmsMain\Dms\Dms.Domain\obj\Release\net6.0\ref\Dms.Domain.dll

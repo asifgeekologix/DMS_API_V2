@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "EDUc5fdK9H6KsrxAt+g/wkGs8gRzc0ggU7zoXl94AHs=",
+  "Source": "Dms.API",
+  "BasePath": "_content/Dms.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Dms.API\\wwwroot",
+      "Source": "Dms.API",
+      "ContentRoot": "D:\\OFFICE PROJECT\\DmsMain\\Dms\\Dms.API\\wwwroot\\",
+      "BasePath": "_content/Dms.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\OFFICE PROJECT\\DmsMain\\Dms\\Dms.API\\wwwroot\\client_secret.json",
+      "SourceId": "Dms.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OFFICE PROJECT\\DmsMain\\Dms\\Dms.API\\wwwroot\\",
+      "BasePath": "_content/Dms.API",
+      "RelativePath": "client_secret.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client_secret.json"
+    },
+    {
+      "Identity": "D:\\OFFICE PROJECT\\DmsMain\\Dms\\Dms.API\\wwwroot\\DmsDrive\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+      "SourceId": "Dms.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OFFICE PROJECT\\DmsMain\\Dms\\Dms.API\\wwwroot\\",
+      "BasePath": "_content/Dms.API",
+      "RelativePath": "DmsDrive/Google.Apis.Auth.OAuth2.Responses.TokenResponse-user",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DmsDrive\\Google.Apis.Auth.OAuth2.Responses.TokenResponse-user"
+    },
+    {
+      "Identity": "D:\\OFFICE PROJECT\\DmsMain\\Dms\\Dms.API\\wwwroot\\Downloads\\alice-blue_drive shivraj.png",
+      "SourceId": "Dms.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OFFICE PROJECT\\DmsMain\\Dms\\Dms.API\\wwwroot\\",
+      "BasePath": "_content/Dms.API",
+      "RelativePath": "Downloads/alice-blue_drive shivraj.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Downloads\\alice-blue_drive shivraj.png"
+    }
+  ]
+}
